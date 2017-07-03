@@ -1,4 +1,4 @@
-baseurl: /bootstrap-toc
+baseurl: /tde-1
 markdown: kramdown
 kramdown:
   input: GFM
