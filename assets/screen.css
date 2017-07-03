@@ -1,5 +1,5 @@
 .right .github-fork-ribbon {
-  background-color: #563d7c;
+  background-color: #E05430;
 }
 
 .container {
@@ -9,7 +9,7 @@
 }
 
 .hint {
-  color: #563d7c;
+  color: #E05430;
   display: inline-block;
   font-weight: bold;
   left: 20px; /* match the left margin of the top-level nav items */
